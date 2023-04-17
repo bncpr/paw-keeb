@@ -1,0 +1,3 @@
+[submodule "keeb-footprints"]
+	path = keeb-footprints
+	url = https://github.com/bncpr/keeb-footprints
