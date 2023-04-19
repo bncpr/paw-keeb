@@ -4,3 +4,6 @@
 [submodule "paw-kbd/keeb-footprints"]
 	path = paw-kbd/keeb-footprints
 	url = https://github.com/bncpr/keeb-footprints
+[submodule "paw-kbd/keyswitches.pretty"]
+	path = paw-kbd/keyswitches.pretty
+	url = https://github.com/daprice/keyswitches.pretty
