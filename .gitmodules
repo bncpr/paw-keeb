@@ -4,3 +4,6 @@
 [submodule "paw-kbd/keyswitches.pretty"]
 	path = paw-kbd/keyswitches.pretty
 	url = https://github.com/daprice/keyswitches.pretty
+[submodule "paw-kbd/foostan-kbd"]
+	path = paw-kbd/foostan-kbd
+	url = https://github.com/foostan/kbd
