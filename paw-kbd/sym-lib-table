@@ -1,3 +1,5 @@
 (sym_lib_table
+  (version 7)
   (lib (name "kbd")(type "Legacy")(uri "${KIPRJMOD}/foostan-kbd/kicad-symbols/kbd.lib")(options "")(descr ""))
+  (lib (name "Seeeduino XIAO")(type "Legacy")(uri "${KIPRJMOD}/seed/Seeeduino XIAO KICAD/Seeeduino XIAO.lib")(options "")(descr ""))
 )
